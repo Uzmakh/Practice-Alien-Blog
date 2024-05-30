@@ -221,6 +221,11 @@ article p {
     line-height: 1rem;
     margin-top: 5px;
   }
+  nav {
+    border-bottom: 1px dashed #a61f11;
+    border-top: 1px dashed #da0090;
+    /* padding: 1rem; */
+  }
   article h2{
     font-size: 22px;
   }
